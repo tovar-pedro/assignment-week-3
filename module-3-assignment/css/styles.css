@@ -1,0 +1,62 @@
+.navbar-brand > h1 {
+	color: #08f;
+	font-size: 1.4em;
+	margin: auto 40px;
+}
+
+#header-nav {
+	background-color: Beige;
+	border-radius: 0;
+  border: 0; 
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #08f;
+  }
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+    color: #08f;
+  }
+#collapsable-nav a:hover {
+  background-color: DarkBlue;
+}
+h2 {
+  color: #08f;
+  font-size: 1.9em;
+  margin-bottom: 20px;
+}
+
+#main-content {
+  background-color: Beige;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 80px;
+}
+
+#tile1 {
+  margin: 15px auto;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+#tile2 {
+  margin: 0 15px;
+}
+
+div.row{
+  margin-bottom: 15px;
+}
